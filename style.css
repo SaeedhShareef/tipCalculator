@@ -1,0 +1,29 @@
+   body{
+        background-image: url(./images/sam-dan-truong--rF4kuvgHhU-unsplash.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        font-family: 'Merriweather', serif;
+  }
+   
+   .container{
+      display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+       height : 500px; 
+       width : 400px;   
+      margin : 100px ;  
+         margin-left : 500px;
+         margin-right : 500px; 
+        background : #F7F7F7;
+        /* box-shadow : 0 0 3px rgba(0, 0, 0, 0.1) */
+        border-style: solid;
+        border-radius : 40px;
+        border-width: 1px;
+        border-color: black;
+         -webkit-border-radius : 20px;
+        -moz-border-radius : 20px  
+                 }
+      
+         
+      
